@@ -12,8 +12,7 @@ Gem::Specification.new do |s|
   s.authors     = ["Billy Fowks"]
   s.email       = 'bf@billyfowks.com'
   s.homepage    =
-    'http://rubygems.org/gems/pressar'
-  s.rubyforge_project = "pressar"
+    'https://rubygems.org/gems/pressar'
 
   s.files         = `git ls-files`.split("\n")
   s.test_files    = `git ls-files -- test/*`.split("\n")
